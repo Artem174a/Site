@@ -1,0 +1,86 @@
+body {
+    background-color: #E5E5E5;
+}
+
+.content {
+  /* Rectangle 1 */
+
+
+position: absolute;
+width: 312px;
+height: 320px;
+left: 39px;
+top: 89px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+border-radius: 30px 30px 15px 15px;
+}
+
+button.pay-now {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+button.pay-now {
+/* Rectangle 2 */
+position: absolute;
+width: 312px;
+height: 55px;
+left: 39px;
+top: 417px;
+
+border: none;
+background: #60C66A;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+border-radius: 15px 15px 30px 30px;
+}
+
+
+.title-content {
+/* Тестовое название */
+
+
+position: absolute;
+width: 50%;
+height: 56px;
+left: 25%;
+top: 10%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+.caption-content {
+/* Тестовое описание */
+
+
+position: absolute;
+width: 80%;
+height: 56px;
+left: 10%;
+top: 40%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
